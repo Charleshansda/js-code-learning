@@ -8,4 +8,12 @@ let acntSt;
 // emlId = "anil"
 // ctyId = "ranchi"
 
-console.log (acntSt);
+// console.log (acntSt);
+console.table([acntId, passId, emlId, ctyId, acntId]);
+
+// let wrongToDo = undefined;
+// let lstName;
+// console.log('same undefined:', lstName===wrongToDo);
+// let bttrOptn = null;
+// console.log('same null',lstName===bttrOptn);
+
